@@ -1,1 +1,1 @@
-#learn_javascript_ru solutions
+# learn_javascript_ru solutions
